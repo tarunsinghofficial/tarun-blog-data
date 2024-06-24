@@ -1,0 +1,78 @@
+{
+    "latestBlogs": [
+      {
+        "title": "10 Open-Source Tools for Optimizing Cloud Expenses",
+        "description": "Let’s explore 10 open-source tools that can reduce cloud costs and may be chosen as cost optimization tools.",
+        "imageURL": "https://semaphoreci.com/wp-content/uploads/2024/06/68747470733a2f2f692e696d6775722e636f6d2f7855766c6541372e706e67-1536x809.jpg",
+        "dateOfPublish": "2024-06-11",
+        "url": "https://semaphoreci.com/blog/open-source-tools-cloud-costs"
+      },
+      {
+        "title": "Managing State With Vuex in Vue.js",
+        "description": "Managing state while building web applications can be very challenging when working on medium to large-scale applications. State management is an important part of Vue applications as it ensures scalability and maintainability of code, so we need to understand it properly.",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0533/2089/files/vuejs-tutorial_2d2a853c-aa2f-44b0-80df-933b495f77f8.png",
+        "dateOfPublish": "2024-01-17",
+        "url": "https://semaphoreci.com/blog/vuex"
+      },
+      {
+        "title": "Mastering Multilingual Websites: Internationalization In Next.Js 14",
+        "description": "In the rapidly evolving digital landscape, creating websites that cater to a global audience is not just an option but a necessity. Internationalization, or i18n, plays a pivotal role in web development, ensuring that your content reaches a global audience in different languages and regions seamlessly. This article will show you how to work with i18n in Next.js.",
+        "imageURL": "https://blog.openreplay.com/images/i18n-in-next-14/images/hero.png",
+        "dateOfPublish": "2024-02-05",
+        "url": "https://blog.openreplay.com/i18n-in-next-14/"
+      },
+      {
+        "title": "Democratizing Software Development with Low-Code/No-Code (LCNC) Platforms in 2024",
+        "description": "The software development landscape is undergoing a seismic shift. While established trends like Artificial Intelligence (AI) and cloud computing continue to evolve, a new movement is empowering a wider range of individuals to contribute to the creation of software applications: low-code/no-code (LCNC) development platforms.",
+        "imageURL": "https://onedevplace.netlify.app/_next/image?url=https%3A%2F%2Fdev-onedevplaceblog.pantheonsite.io%2Fwp-content%2Fuploads%2F2024%2F05%2FMy-first-design.png",
+        "dateOfPublish": "2024-05-27",
+        "url": "https://onedevplace.netlify.app/blog/low-code-no-code-lcnc-platforms"
+      },
+      {
+        "title": "How to Add Dark Mode in ReactJS using Tailwind CSS ?",
+        "description": "Tailwind CSS is a CSS framework that helps in building rapid custom UI. It is a highly customizable, low-level CSS framework that gives you all of the building blocks that you need. Tailwind CSS creates small utilities with a defined set of options enabling easy integration of existing classes directly into the HTML code.",
+        "imageURL": "https://media.geeksforgeeks.org/wp-content/uploads/20221102194345/ezgifcomgifmaker20221102T194324458.gif",
+        "dateOfPublish": "2024-05-23",
+        "url": "https://www.geeksforgeeks.org/how-to-add-dark-mode-in-reactjs-using-tailwind-css"
+      }
+    ],
+    "blogPlatforms": [
+      {
+        "platformTitle": "Semaphore",
+        "totalArticles": 4,
+        "categories": ["Cloud", "Artificial Intelligence", "Frontend Development"],
+        "url": "https://semaphoreci.com/author/tarun-singh"
+      },
+      {
+        "platformTitle": "GeeksforGeeks",
+        "totalArticles": 384,
+        "categories": ["Data Structures", "JavaScript", "Development", "DBMS", "Operating Systems", "Algorithms", "Java"],
+        "url": "https://www.geeksforgeeks.org/user/tarunsinghwap7/contributions/"
+      },
+      {
+        "platformTitle": "TutorialsPoint",
+        "totalArticles": 103,
+        "categories": ["Frontend Development", "Python", "HTML/CSS", "JavaScript"],
+        "url": "https://www.tutorialspoint.com/authors/tarun-singh/9"
+      },
+      {
+        "platformTitle": "OpenReplay",
+        "totalArticles": 2,
+        "categories": ["Frontend Development", "Software Development", "Engineering"],
+        "url": "https://blog.openreplay.com/authors/tarun-singh/"
+      },
+      {
+        "platformTitle": "Apify",
+        "totalArticles": 1,
+        "categories": ["Web Scraping", "API", "Python"],
+        "url": "https://blog.apify.com/author/tarun-singh/"
+      },
+      {
+        "platformTitle": "OneDevPlace",
+        "totalArticles": 5,
+        "categories": ["Tech News", "Software Development", "Engineering"],
+        "url": "https://onedevplace.netlify.app/blog"
+      }
+    ]
+  }
+  

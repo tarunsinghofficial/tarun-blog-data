@@ -39,19 +39,19 @@
     "blogPlatforms": [
       {
         "platformTitle": "HeroVired",
-        "totalArticles": 97+,
+        "totalArticles": 97,
         "categories": ["Programming", "Data Analysis, Science, and Engineering", "DevOps", "Cloud", "AI/ML", "Frontend"],
         "url": "https://herovired.com/learning-hub/blogs/devops-architect/"
       },
       {
         "platformTitle": "RBMsoft",
-        "totalArticles": 3+,
+        "totalArticles": 3,
         "categories": ["Cloud", "AI/ML", "Microservices", "E-commerce"],
         "url": "https://rbmsoft.com/"
       },
       {
         "platformTitle": "LCD Media",
-        "totalArticles": 7+,
+        "totalArticles": 7,
         "categories": ["SaaS", "AI/ML", "LLMs"],
         "url": "https://www.lcdmedia.net/"
       },
